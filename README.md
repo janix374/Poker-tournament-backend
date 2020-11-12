@@ -28,7 +28,22 @@ Players can have one rebuy and rebuy cost -1 point
 
 
 Packages, dependencies and tools used:
-Node, mongoDB, mongoose, express, budy parser
+Node
+mongoDB
+mongoose 
+express 
+budy parser
+dotenv
 
 This is version 1.0.0, Front-end is in development...   
 
+
+Installation
+# clone it
+
+# Install dependencies
+$ npm install
+
+Development
+Run script
+$ npm run devStart
