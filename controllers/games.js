@@ -18,6 +18,7 @@ exports.games_create_game = (req, res, next) => {
     .catch(err=>{
       next(err);
     });
+    
 }
 
 exports.games_get_all_games = (req, res, next) => {

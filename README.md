@@ -37,13 +37,17 @@ dotenv
 
 This is version 1.0.0, Front-end is in development...   
 
+### Installation
 
-Installation
-# clone it
-
-# Install dependencies
-$ npm install
-
-Development
-Run script
-$ npm run devStart
+1. Clone the repo
+```
+git clone https://github.com/janix374/Poker-tournament-backend.git
+```
+2. Install NPM packages
+```
+npm install
+```
+3. Start project - Run script
+```
+npm run devStart
+```
